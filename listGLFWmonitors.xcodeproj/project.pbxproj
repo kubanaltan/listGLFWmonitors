@@ -250,6 +250,7 @@
 				5C50F5711D317CFC00F0DDC8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
